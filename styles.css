@@ -1,0 +1,18 @@
+/* override some styles from remark */
+.markdown-body pre code {
+    background: initial !important;
+}
+
+.markdown-body h2 {
+    border-bottom: none !important;
+}
+
+.left {
+    width: 50%;
+    float: left;
+}
+
+.right {
+    width: 50%;
+    float: right;
+}
