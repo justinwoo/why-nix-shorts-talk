@@ -1,0 +1,84 @@
+# Why Nix Shorts
+## Justin Woo
+### Berlin FP Group - 20 Apr 2021
+---
+# Objectives
+---
+# Nix Shorts
+---
+# Your First Derivation
+## Basic derivation example
+---
+## Building our derivation
+---
+# Working With Nix Shells
+## Shells with `-p`
+---
+## Nixpkgs mkShell
+---
+# Pinning to a specific Nixpkgs
+---
+## Usage
+##  With `fetchFromGitHub`
+---
+# Installing things to Nix Profile
+---
+## Installing packages from Nixpkgs
+## Uninstalling packages
+---
+## Looking at what is in the environment
+---
+# Installing Packages from Files
+## From a file of a single derivation expression
+---
+### Usage
+---
+## From a set of derivations
+---
+# Inspecting Values with [Nix] REPL
+---
+### Evaluate
+### Bind
+---
+### Example usage
+---
+# Why Nix Shorts?
+## Irrelevant Nix implementation details
+## Lack of NixPkgs `stdenv/lib` usage
+---
+## Demonstrations and examples do not exist
+## "Read Nix Pills"
+---
+# Doing something about it
+---
+# What I aim to do in my articles
+## A single topic
+## A definition
+---
+## Demonstration, with commands and code
+### "The examples will go out of date"
+### "The topic will go out of date"
+---
+## Explanations of unfamiliar bits
+### Don't treat readers like children
+### "It's impossible to talk about the real things because it's endlessly complex"
+---
+## Links to other resources
+---
+## Doesn't have to be read
+---
+## No moral messaging
+---
+# The main things I expect from other articles
+---
+# Some extra things writings I dislike do
+## Long README with no clear structure
+## TODO
+## Analogies stretched too far
+## Lies and misrepresentations
+---
+# My hopes for articles in the future
+---
+## You might write because
+---
+# End
